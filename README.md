@@ -39,10 +39,10 @@
 - [Modules/](/Katon%20Battlespace/Assets/Scripts/Modules) - скрипты, связанные с созданием, нахождением и функционированием корабельных модулей;
   - [Creation/](/Katon%20Battlespace/Assets/Scripts/Modules/Creation) - раздел, содержащий скрипты для создания модулей;
   - [Data/](/Katon%20Battlespace/Assets/Scripts/Modules/Data) - каталог, содержащий интерфейсы и классы для хранения промежуточных данных о создаваемых модулях;
-  - [Ship Modules/](/Katon%20Battlespace/Assets/Scripts/Modules/Ship Modules) - раздел, реализующий функционал каждого из модулей;
-- [Ship Components/](/Katon%20Battlespace/Assets/Scripts/Ship Components) - компоненты и скрипты для космических кораблей;
+  - [Ship Modules/](/Katon%20Battlespace/Assets/Scripts/Modules/Ship%20Modules) - раздел, реализующий функционал каждого из модулей;
+- [Ship Components/](/Katon%20Battlespace/Assets/Scripts/Ship%20Components) - компоненты и скрипты для космических кораблей;
 - [Touchscreen/](/Katon%20Battlespace/Assets/Scripts/Touchscreen) - кастомные компоненты для работы с экранами мобильных устройств;
 - [Voxels/](/Katon%20Battlespace/Assets/Scripts/Voxels) - раздел, содержащий скрипты и компоненты, связанные с вокселями;
   - [Data/](/Katon%20Battlespace/Assets/Scripts/Voxels/Data) - каталог, хранящий классы для загрузки данных о вокселях в память устройства;
   - [Editor/](/Katon%20Battlespace/Assets/Scripts/Voxels/Editor) - подраздел, содержащий скрипты и компоненты, связанные с работой вокселей в редакторе кораблей;
-    -[Data/](/Katon%20Battlespace/Assets/Scripts/Voxels/Editor/Data) - каталог, хранящий классы для загрузки данных о работе в редакторе в память устройства;
+    - [Data/](/Katon%20Battlespace/Assets/Scripts/Voxels/Editor/Data) - каталог, хранящий классы для загрузки данных о работе в редакторе в память устройства;
