@@ -7,11 +7,11 @@
 [Дизайн-документ](https://docs.google.com/document/d/1HGFJKazQLUXh3KHtl_5YbpAp1U28bYtq7fA64EflLo4/edit?usp=sharing) проекта можно изучить в Google Docs.
 
 Краткий видеообзор проекта ([Плейлист](https://www.youtube.com/watch?v=IGB8aBQnkII&list=PLnRh3_Lo2vupQVoHEfJIGooQYXL504a_A) на YouTube):
-- [Строительство корабля](https://www.youtube.com/watch?v=IGB8aBQnkII)
-- [Управление и полёт](https://www.youtube.com/watch?v=JcEAleAuhk8)
-- [Повреждения и взрывы](https://www.youtube.com/watch?v=x6HCjHZyGGk)
-- [Столкновения](https://www.youtube.com/watch?v=Efzp1ict7Ks)
-- [Кончилось топливо](https://www.youtube.com/watch?v=A_3YdXi1JRw)
+- [Строительство корабля](https://www.youtube.com/watch?v=IGB8aBQnkII);
+- [Управление и полёт](https://www.youtube.com/watch?v=JcEAleAuhk8);
+- [Повреждения и взрывы](https://www.youtube.com/watch?v=x6HCjHZyGGk);
+- [Столкновения](https://www.youtube.com/watch?v=Efzp1ict7Ks);
+- [Кончилось топливо](https://www.youtube.com/watch?v=A_3YdXi1JRw).
 
 Достигнутый результат пусть и меньше ожидаемого (изначально цели были гораздо амбициознее, но со временем пришло осознание того, что один разработчик не может сделать всё что угодно), однако его уже достаточно, чтобы гордиться своим трудом.
 
