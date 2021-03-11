@@ -1,4 +1,7 @@
 # Katon-Battlespace
+
+![Изображение с корабликами](https://user-images.githubusercontent.com/75719391/110838119-25363b00-82b3-11eb-9d43-30e02797f9b9.png)
+
 Репозиторий проекта **Katon: Battlespace** и его визитная карточка.
 
 ## Об игре
