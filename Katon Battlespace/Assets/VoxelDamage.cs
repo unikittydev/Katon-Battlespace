@@ -11,8 +11,9 @@ public class VoxelDamage : MonoBehaviour
 {
     private static VoxelWorldComponent component;
 
-    public const float damageFactor = 10f;
-    private const float damageRandomPercent = 0.1f;
+    public const float radiusFactor = 2f;
+    public const float damageFactor = 3f;
+    private const float damageRandomPercent = 0.9f;
 
     private static int3 start, end;
 
@@ -27,13 +28,15 @@ public class VoxelDamage : MonoBehaviour
         VoxelDamage.component = component;
         DamageJob((int3)(float3)component.transform.InverseTransformPoint(position), power);
 
+        component.rb.AddExplosionForce(100 * power, position, power / radiusFactor);
+
         VoxelWorldBuilder.BuildVoxelWorld(component, start, end - 1);
         VoxelDestruction.DestructWorld(component);
     }
 
     private static void DamageJob(in int3 position, float power)
     {
-        int radius = (int)(power / damageFactor);
+        int radius = (int)(power / radiusFactor);
 
         start = math.max(position - radius, int3.zero);
         end = math.min(start + radius + radius, component.world.size);

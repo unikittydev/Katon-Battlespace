@@ -128,4 +128,4 @@ MonoBehaviour:
   _rb: {fileID: 997891223941662970}
   explosionPrefab: {fileID: 8832873702544554187, guid: a749c734d72ab744685906cc1adb4d3a, type: 3}
   startForce: 10
-  damage: 100
+  damage: 10
